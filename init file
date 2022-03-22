@@ -9,3 +9,7 @@ it is Michal
 - cofnij merga
 - cofnij zmien 1bledny plik, 2 usun
 - zrob PR i merge
+
+2.
+- merge do brancha innego brancha z source tree bez push
+- cofniecie tego lokalnie, zeby drugi lokalny merge zaciagnal spowrotem wszystkie roznice
