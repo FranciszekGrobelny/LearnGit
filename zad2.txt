@@ -1,1 +1,0 @@
-zadanie 2 polega na loalnym wycofaniu zmian spowodowanych mergem, ponizej dodam kroki jakie zrobilem aby rozwiazac to zadanie
