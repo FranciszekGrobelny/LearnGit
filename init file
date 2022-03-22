@@ -14,4 +14,4 @@ it is Michal
 - merge do brancha innego brancha z source tree bez push
 - cofniecie tego lokalnie, zeby drugi lokalny merge zaciagnal spowrotem wszystkie roznice
 #zmiana pliku aby mozna bylo ja zaciagnac z merga plus nowy plik zad2
-#zmiany aby utworzyc branch zdalnie conflict
+#zmiany aby utworzyc branch zdalnie test conflict
