@@ -1,1 +1,4 @@
 zadanie usuwania commitow
+jezeli checmy usunac commit nalezy uzyc komendy:
+git reset hashCommita lub jezeli ma to byc tylko ostatni commit to git reset head~1 
+wtedy cofniemy sie do wskazanego commita
