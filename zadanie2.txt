@@ -1,4 +1,11 @@
-zadanie usuwania commitow
-jezeli checmy usunac commit nalezy uzyc komendy:
-git reset hashCommita lub jezeli ma to byc tylko ostatni commit to git reset head~1 
+zadanie usuwania commitow, jezeli checmy usunac commit nalezy uzyc komendy:
+1. "git reset hashCommita" lub jezeli ma to byc tylko ostatni commit to "git reset head~1 "
 wtedy cofniemy sie do wskazanego commita
+2. git checkout nazwa brancha -- nazwaPliku pozwoli podejrzec zmiany ze stanu przed mergem
+po resecie commit zniknie ale zmiany kodu beda sie swiecic jako update. mozemy je usunac recznie lub komenda checkout
+
+Cale zadanie:
+1. git merge Franek
+2. git reset head~1
+3. git checkout Franek_zadanie_1
+4. git merge Franek
