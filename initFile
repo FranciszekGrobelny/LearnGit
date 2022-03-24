@@ -17,4 +17,3 @@ it is Michal
 #zmiany aby utworzyc branch zdalnie test conflict 
 do usuniecia commita, bo merge to tez commit uzyje komendy git reset hashCommita
 mozna tez leciec po HEAD to zrobie zaraz 
-ten commit usune
