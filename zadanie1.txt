@@ -1,0 +1,7 @@
+do usuniecia zmian z repo zdalnego mozna uzyc 
+git rebase hashCommita - powstanie nowy commit ktory bedzie zawieral odwrotne zmiany co poprzedni commit
+jezeli cos bylo dodawane to ten bedzie to usuwal 
+
+jestem ciekaw jak sie zachowa kiedy cofniemy sie do jeszcze wczesniejszego commita
+
+mozna tez skorzystac z git reset --hard
