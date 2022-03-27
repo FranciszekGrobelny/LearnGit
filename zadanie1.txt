@@ -6,3 +6,5 @@ jestem ciekaw jak sie zachowa kiedy cofniemy sie do jeszcze wczesniejszego commi
 Nie da sie tego zrobic. Revert usuwa tylko jeden commit, a nie cofa do konkretnego
 
 mozna tez skorzystac z git reset --hard
+git reset --soft cofa commita i nie usuwa nieskomitowanych zmian 
+git reset --hard cofa commita i nieskomitowane zmiany
